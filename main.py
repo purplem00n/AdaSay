@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.cow("COWABUNGA")
+cowsay.say("RAWR", "stegosaurus") 
